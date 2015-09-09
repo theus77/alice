@@ -1,0 +1,13 @@
+/.sass-cache/
+/Vendor/*
+/Plugin/*
+.DS_Store
+/.settings/
+/bin/
+/Config/database.php*
+/Plugin/*
+/Vendor/
+/webroot/img/cache/*
+/.project
+/composer.lock
+/.buildpath

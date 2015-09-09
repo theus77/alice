@@ -1,0 +1,29 @@
+{
+  "name": "Alice",
+  "version": "0.0.0",
+  "authors": [
+    "theus deka <me@theus.be>"
+  ],
+  "description": "Site web d'Alice",
+  "main": "index.php",
+  "keywords": [
+    "Alice",
+    "web",
+    "html5",
+    "responsive"
+  ],
+  "license": "MIT",
+  "homepage": "http://alice.theus.be",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.3",
+    "bootstrap-sass": "~3.3.3"
+  }
+}

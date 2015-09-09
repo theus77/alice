@@ -1,0 +1,26 @@
+// Import Bootstrap Compass integration
+@import "bootstrap-compass";
+
+// Import custom Bootstrap variables
+@import "bootstrap-variables";
+
+// Import Bootstrap for Sass
+@import "bootstrap";
+
+
+#url-rewriting-warning {
+    display:none;
+}
+
+.carousel-caption span.glyphicon {
+	font-size: 30px;
+}
+
+.carousel-inner > .item > img, .carousel-inner > .item > a > img {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.carousel-inner > .item {
+	background-color: black;
+}
