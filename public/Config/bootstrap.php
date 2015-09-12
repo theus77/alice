@@ -100,4 +100,4 @@ CakeLog::config('error', array(
 
 CakePlugin::load('ApertureConnector', array('bootstrap' => false, 'routes' => true));
 
-Configure::write('aperturePath', '/Users/theus/Pictures/Aperture Library.aplibrary/');
+Configure::write('aperturePath', '/var/www/aperture/');
